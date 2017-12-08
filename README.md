@@ -1,2 +1,1 @@
-# simpleblockchain
-blockchain application
+# gochain-mastering
