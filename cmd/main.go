@@ -3,7 +3,7 @@ package main
 import (
     "flag"
     "fmt"
-    "github.com/crisadamo/gochain"
+    "github.com/jyotku48/simpleblockchain"
     "log"
     "net/http"
     "strings"
